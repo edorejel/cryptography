@@ -1,2 +1,2 @@
 # cryptography
-Cryptography notes, code-based programs, and tutoring stuff.
+Cryptography notes, small code-based cryptography programs, and tutoring stuff.
